@@ -1,0 +1,63 @@
+name: flutter_app
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_svg: ^2.0.10+1
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/images/download_removebg_preview_51.png
+  - assets/images/ellipse_31.png
+  - assets/images/istockphoto_814684194612_x_6121.jpeg
+  - assets/images/frame_8.jpeg
+  - assets/images/pexels_pixabay_4331451.jpeg
+  - assets/images/pexels_chevanon_photography_3029021.jpeg
+  - assets/images/vector_coffee_cup_logo_template_removebg_preview_1.png
+  - assets/images/vector_coffee_cup_logo_template_removebg_preview_11.jpeg
+  - assets/images/pexels_gl_ik_21280231.jpeg
+  - assets/images/whats_app_image_20221105_at_7031.jpeg
+  - assets/images/download_removebg_preview_61.png
+  - assets/vectors/vector_8_x2.svg
+  - assets/vectors/vector_13_x2.svg
+  - assets/vectors/vector_x2.svg
+  - assets/vectors/vector_10_x2.svg
+  - assets/vectors/vector_11_x2.svg
+  - assets/vectors/vector_4_x2.svg
+  - assets/vectors/vector_5_x2.svg
+  - assets/vectors/vector_9_x2.svg
+  - assets/images/frame_8.jpeg
+  - assets/images/vector_coffee_cup_logo_template_removebg_preview_11.jpeg
+  - assets/images/istockphoto_814684194612_x_6121.jpeg
+  - assets/images/pexels_gl_ik_21280231.jpeg
+  - assets/images/whats_app_image_20221105_at_7031.jpeg
+  - assets/images/pexels_pixabay_4331451.jpeg
+  - assets/images/pexels_chevanon_photography_3029021.jpeg
+  - assets/images/ellipse_31.png
+  - assets/images/download_removebg_preview_61.png
+  - assets/images/vector_coffee_cup_logo_template_removebg_preview_1.png
+  - assets/images/download_removebg_preview_51.png
+  - assets/vectors/vector_3_x2.svg
+  - assets/vectors/vector_14_x2.svg
+  - assets/vectors/vector_7_x2.svg
+  - assets/vectors/vector_1_x2.svg
+  - assets/vectors/vector_12_x2.svg
+  - assets/vectors/vector_6_x2.svg
+  - assets/vectors/vector_15_x2.svg
+  - assets/vectors/vector_2_x2.svg
+
